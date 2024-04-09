@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\xxx\Desktop\三级项目\航班生成\航班生成\源.cpp(17,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  航班生成.vcxproj -> C:\Users\xxx\Desktop\三级项目\航班生成\x64\Debug\航班生成.exe
